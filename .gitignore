@@ -1,0 +1,6 @@
+# Generated files
+photo_rounded.png
+*.pdf
+__pycache__/
+*.pyc
+.DS_Store
