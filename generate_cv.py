@@ -164,7 +164,7 @@ main.append(Paragraph(
     "<b>BI Developer – Sazka</b> (Jan 2024 - Dec 2024)<br/>"
     "• DWH & BI ETL development<br/>"
     "• Upgrade DWH SQL Server to version 2022<br/>"
-    "• Azure Data Factory and ETL orchestration",
+    "• Azure Data Factory & ETL orchestration",
     styles["Body"]
 ))
 
@@ -184,7 +184,7 @@ main.append(Paragraph(
     styles["Body"]
 ))
 
-main.append(Spacer(1, 6))
+main.append(Paragraph("Internship", styles["Section"]))
 main.append(Paragraph(
     "<b>Developer & DevOps Hatchery – Unicorn</b> (Feb 2019 – Mar 2019)<br/>"
     "• Spring Boot backend development<br/>"
